@@ -1,3 +1,15 @@
+"""
+This is just a simple script to scan a target using nmap and print the results.
+It uses the nmap library to perform the scan and prints the results in a readable format.
+
+It is important to note that this script is for educational purposes only and should not be used for any illegal activities.
+Before using this script, make sure you have permission to scan the target.
+Besides, this script is not a replacement for a full-fledged security assessment tool.
+It is just a simple script to demonstrate how to use the nmap library in Python.
+AND POCS ARE NOT ALLOWED TO BE USED FOR ILLEGAL ACTIVITIES.
+This script is for educational purposes only.
+"""
+
 import socket
 import nmap
 
