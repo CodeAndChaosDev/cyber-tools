@@ -1,4 +1,4 @@
-# GoldenPort
+# GoldenPort (Not Final README, project ongoing)
 
 GoldenPort is a fully AI-powered Analyzer Port Scanner with API access. This project leverages modern technologies like FastAPI, Python, PostgreSQL, Docker, and MongoDB to provide a robust and efficient port scanning and analysis tool.
 
